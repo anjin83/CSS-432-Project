@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AsynchronousClient.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Card.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AsynchronousClient.cs" Line="51" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\manim\Documents\CSS 432 Project\css-432-poker-project\Bad Beats and Banjamins\Assets\Scripts\Player.cs" line="9" column="1" />
+      <Breakpoint file="C:\Users\manim\Documents\CSS 432 Project\css-432-poker-project\Bad Beats and Banjamins\Assets\Scripts\connectToServer.cs" line="25" column="1" />
+      <Breakpoint file="C:\Users\manim\Documents\CSS 432 Project\css-432-poker-project\Bad Beats and Banjamins\Assets\Scripts\connectToServer.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

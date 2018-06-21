@@ -1,0 +1,13 @@
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Client\Client\bin\Debug\Client.exe
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Client\Client\bin\Debug\Client.pdb
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Client\Client\obj\Debug\Client.exe
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Client\Client\obj\Debug\Client.pdb
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Client\Client\bin\Debug\Client.exe.config
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Client\Client\bin\Debug\Client.exe
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Client\Client\bin\Debug\Client.pdb
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Client\Client\obj\Debug\Client.exe
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Client\Client\obj\Debug\Client.pdb

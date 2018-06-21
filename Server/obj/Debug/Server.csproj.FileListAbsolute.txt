@@ -1,0 +1,52 @@
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Server\Server\obj\Debug\Server.exe
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Server\Server\bin\Debug\Server.exe.config
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Server\Server\bin\Debug\Server.exe
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Server\Server\obj\Debug\Server.exe
+C:\Users\PFITech\Desktop\CSS 432 Project\Test projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Stephen\Desktop\CSS 422\Test projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Desktop\CSS 432 Project\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Desktop\CSS 432 Project\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PFITech\Desktop\CSS 432 Project\Server\Server\obj\Debug\Server.exe
+C:\Users\PFITech\Desktop\CSS 432 Project\Server\Server\obj\Debug\Server.pdb
+C:\Users\PFITech\Desktop\CSS 432 Project\Server\Server\bin\Debug\Server.exe.config
+C:\Users\PFITech\Desktop\CSS 432 Project\Server\Server\bin\Debug\Server.exe
+C:\Users\PFITech\Desktop\CSS 432 Project\Server\Server\bin\Debug\Server.pdb
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Test projects\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Test projects\Server\Server\obj\Debug\Server.exe
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Test projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Test projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Test projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Test projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\bin\Debug\Server.exe.config
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\bin\Debug\Server.exe
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\bin\Debug\Server.pdb
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\obj\Debug\Server.exe
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\obj\Debug\Server.pdb
+C:\Users\manim\Documents\CSS 432 Project\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\manim\Documents\CSS 432 Project\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\manim\Documents\CSS 432 Project\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\manim\Documents\CSS 432 Project\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\manim\Documents\CSS 432 Project\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\manim\Documents\CSS 432 Project\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Stephen\Desktop\CSS 432\CSS 432 Project\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\PFITech\Documents\CSS 432 Project\css-432-poker-project\Server\Server\Server\obj\Debug\Server.pdb
